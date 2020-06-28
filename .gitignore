@@ -1,0 +1,6 @@
+.DS
+.vscode
+obj
+bin
+appsettings.json
+*.db
